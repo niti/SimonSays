@@ -7,8 +7,6 @@ Implemented the classic game “Simon Says” using an Android app and a Raspber
 
 ![alt tag](https://cloud.githubusercontent.com/assets/5305478/5426477/32ba1e74-8321-11e4-993d-f571035d9895.jpg)
 
-
-
 Key Features: 
 Uses device’s accelerometer for a shake-to-start-game function
 Ability to connect with any Raspberry Pi and lights to display a series of lights for the user to follow
