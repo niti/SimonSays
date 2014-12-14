@@ -2,8 +2,10 @@
 Team Members: Stephen Feldman, Niti Paudyal & Nithya Murali
 
 
-
 Implemented the classic game “Simon Says” using an Android app and a Raspberry Pi.  “Simon Says” is a memory game requiring the player to memorize sequences of illuminated lights and recall them within limited time constraints.  The more difficult and lengthy the sequence, the more points are earned!
+
+
+![alt tag](https://cloud.githubusercontent.com/assets/5305478/5426477/32ba1e74-8321-11e4-993d-f571035d9895.jpg)
 
 
 
